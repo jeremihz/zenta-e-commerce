@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="TestECommerceSite">
-	<test name="Test Login">
-		<classes>
-			<class name="testECommerceSite.testLogin">
-			</class>
-		</classes>
-	</test>
-</suite>

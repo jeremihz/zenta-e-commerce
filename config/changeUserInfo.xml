@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="TestECommerceSite">
-	<test name="Change User Profile Info">
-		<classes>
-			<class name="testECommerceSite.changeUserinfo">
-			</class>
-		</classes>
-	</test>
-</suite>
