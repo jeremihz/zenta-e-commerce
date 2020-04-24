@@ -1,4 +1,4 @@
-# ECommerceStore
+# Zentamall
 
 <selenium web driver automation>
 
@@ -47,7 +47,7 @@ path>libraries>add external jars>then locate where you extracted the Apache POI 
 download JXL jar file from "http://www.java2s.com/Code/JarDownload/jxl/jxl.jar.zip"
 unzip the file and follow the same steps from Eclipse workspace used to add Apache POI jar files to access and add the JXL jar file to the library.
 
-Install TestNG:Launch the Eclipse IDE and from Help menu, click “Install New Software”.>You will see a dialog window, click “Add” button.>Type name as you wish, lets take “TestNG” and type “http://beust.com/eclipse/” as location. Click OK>>You come back to the previous window but this time you must see TestNG option in the available software list. Just Click TestNG and press “Next” button>> Click “I accept the terms of the license agreement” then click Finish>> You may or may not encounter a Security warning, if in case you do just click OK>> Click Next again on the succeeding dialog box until it prompts you to Restart the Eclipse>>You are all done now, just Click Yes>>Proceed with your workplace>>After restart, verify if TestNG was indeed successfully installed. Right click on you project and see if TestNG is displayed in the opened menu.
+Install TestNG:Launch the Eclipse IDE and from Help menu, click â€œInstall New Softwareâ€.>You will see a dialog window, click â€œAddâ€ button.>Type name as you wish, lets take â€œTestNGâ€ and type â€œhttp://beust.com/eclipse/â€ as location. Click OK>>You come back to the previous window but this time you must see TestNG option in the available software list. Just Click TestNG and press â€œNextâ€ button>> Click â€œI accept the terms of the license agreementâ€ then click Finish>> You may or may not encounter a Security warning, if in case you do just click OK>> Click Next again on the succeeding dialog box until it prompts you to Restart the Eclipse>>You are all done now, just Click Yes>>Proceed with your workplace>>After restart, verify if TestNG was indeed successfully installed. Right click on you project and see if TestNG is displayed in the opened menu.
 
 The tests are to be run  Using Test NG for test reports to be generated
 
