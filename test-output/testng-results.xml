@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestECommerceSite" duration-ms="36350" started-at="2017-12-24T15:58:33Z" finished-at="2017-12-24T15:59:09Z">
+    <groups>
+    </groups>
+    <test name="Parallel Test" duration-ms="36350" started-at="2017-12-24T15:58:33Z" finished-at="2017-12-24T15:59:09Z">
+      <class name="testECommerceSite.changeUserinfo">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testECommerceSite.changeUserinfo@68746f22]" name="openBrowser" duration-ms="32763" started-at="2017-12-24T18:58:36Z" finished-at="2017-12-24T18:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- testECommerceSite.changeUserinfo -->
+      <class name="testECommerceSite.contactUSpage">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testECommerceSite.contactUSpage@7d7758be]" name="openBrowser" duration-ms="3530" started-at="2017-12-24T18:58:33Z" finished-at="2017-12-24T18:58:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- testECommerceSite.contactUSpage -->
+    </test> <!-- Parallel Test -->
+  </suite> <!-- TestECommerceSite -->
+</testng-results>
